@@ -1,5 +1,5 @@
 TRVL
-https://kellidragon.github.io/TRVL./
+https://eddsonblanco.github.io/TRVL./
 
 Our goal was to create a one-stop-shop travel website.  Usually with travel sites, you have your flight/hotel/rental car in one spot but if you want to look at high quality images or weather information or things to do you need to look at a few different site. We wanted people to be able to search a variety of destinations with high quality photos, weather information, and a map with some information specific to the city.  We also wanted users to have the option to compare previous searches so we added an element where you can click on your previous search and it is reloaded onto the page.
 
