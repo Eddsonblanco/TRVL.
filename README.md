@@ -5,5 +5,5 @@ Our goal was to **create a one-stop-shop travel website**.  Usually with travel 
 
 We created the page using html 5, css 3, and javascript/jQuery.  We are using the Cloud Firestore database to store all user searches.  We also used Bootstrap to help with our page layout and MD Bootstrap for our splash page animation.  Our map information is displayed using the teleport widget. We used APIs from Unsplash and Open Weather Map to display the photos and weather data. 
 
-![Image of Preview](assets/previewtrvl.png/)
-![Image of Preview](assets/previewtrvl2.png/)
+![Image of Preview](assets/images/previewtrvl.png/)
+![Image of Preview](assets/images/previewtrvl2.png/)
